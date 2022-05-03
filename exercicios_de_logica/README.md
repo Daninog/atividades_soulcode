@@ -9,3 +9,5 @@ A seguir a descrição de cada exercício:
 - exercicio 4: Crie um código que receba 2 números e resolva a potencia do primeiro ao segundo. Ex: 5², 3³, ...
 - exercicio 5: Crie um código que conte por quantos segundos uma tecla é pressionada.
 - exercicio 6: Crie um código que receba em sequencia de produtos contendo nome de produto, descrição, preço e quantidade em estoque.
+
+Foram utilizados estruturas if/else, while, dicionário e também uso do datetime e tratamento de erro.
