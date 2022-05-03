@@ -59,7 +59,7 @@ class vendedor:
         return self.comissao
 
     
-    #Inicializando o codigo
+#Inicializando o codigo
 if __name__ == "__main__":
 
     try:
